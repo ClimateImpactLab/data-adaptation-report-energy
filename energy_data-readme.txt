@@ -36,7 +36,9 @@ Population-weighted average of mean change in electricity and heating fuels cons
 
 - Code - 3 digit ISO country code
 - mean_electricity - Population-weighted average of mean change in consumption of electricity for all Impact Regions within country borders.
+    - Unit: GJ/capita
 - mean_heatingfuels - Population-weighted average of mean change in consumption of heating fuels for all Impact Regions within country borders.
+    - Unit: GJ/capita
 ----------
 ## References
 
